@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/tanersenel/ExpressionBuilderCore.git</RepositoryUrl>
+    <PackageTags>lamba, filter, expression</PackageTags>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>Taner ŞENEL</Authors>
+    <Company>Taner ŞENEL</Company>
+    <Description>.net Core ExpressionBuilderCore</Description>
+    <PackageProjectUrl>https://github.com/tanersenel/ExpressionBuilderCore.git</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+  </ItemGroup>
+
+</Project>
