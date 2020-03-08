@@ -1,6 +1,13 @@
 # ExpressionBuilderCore
 ExpressionBuilder .net core dll
 
+# Nuget Package Manager Console 
+https://www.nuget.org/packages/ExpressionBuilderCore/
+```
+PM>Install-Package ExpressionBuilderCore -Version 1.0.0
+```
+
+
 Original Repo for .net framework Expression Builder 
 https://github.com/dbelmont/ExpressionBuilder
 
