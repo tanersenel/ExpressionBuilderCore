@@ -9,7 +9,7 @@ PM>Install-Package ExpressionBuilderCore -Version 1.0.0
 
 
 Original Repo for .net framework Expression Builder 
-https://github.com/dbelmont/ExpressionBuilder
+https://github.com/tanersenel/ExpressionBuilder
 
 # How to use it
 Let us imagine we have classes like this...
